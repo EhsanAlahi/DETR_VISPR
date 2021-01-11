@@ -6,4 +6,4 @@ You can download the dataset from https://tribhuvanesh.github.io/vpa/ if you wan
 Inorder to train detr on vpa, I converted the vpa annotations into COCO format. The modify_vpa_coco.ipynb can be used for that purpose.
 # Training
 The model was fine-tunned using DETR R50 model. Others models can be downloaded from the catalogue of model zoo (https://github.com/facebookresearch/detr#model-zoo).
-https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/plot.png
+![alt text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/plot.png)
