@@ -61,3 +61,7 @@ VPA dataset contain 29 different classes and our model was trained on all of the
 We can aslo it to redact information on student-id cards or other documents like Pictute, User-name, Date of birth or other information.
 ![alt_text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/redact.png)
 ![alt_text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/download%20(7).png)
+# References 
+Official DETR repository (https://github.com/facebookresearch/detr)
+Fine-tunne DETR ( https://github.com/woctezuma/finetune-detr )
+A Github issue regarding training detr on custom data (https://github.com/facebookresearch/detr/issues/9)
