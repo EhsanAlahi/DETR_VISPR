@@ -35,7 +35,6 @@ You can download the dataset from https://tribhuvanesh.github.io/vpa/ if you wan
 Inorder to train detr on vpa, I converted the vpa annotations into COCO format. The modify_vpa_coco.ipynb can be used for that purpose.
 # Training
 The model was fine-tunned using DETR R50 model. Others models can be downloaded from the catalogue of model zoo (https://github.com/facebookresearch/detr#model-zoo).
-![alt text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/plot.png)
 # Inferences
 You can use the inferences.ipynb file to generate inferences on anyother images. Download the wights file from this drive link (https://drive.google.com/file/d/1-tcalfc-AjF1GezjqMvPLLGs4nr4R5p9/view?usp=sharing)
 # Use-Cases
