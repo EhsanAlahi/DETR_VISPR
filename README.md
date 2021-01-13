@@ -42,7 +42,6 @@ VPA dataset contain 29 different classes and our model was trained on all of the
 # Face, Body and Nudity
 ![alt text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/Face_Body.png)
 ![alt_text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/0.8.png)
-![alt_text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/Face_Body_Nudity.png)
 ![alt_text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/download%20(21).png)
 # Handwritten, Mail and Ticket
 ![alt_text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/Mail_Handwritten.png)
