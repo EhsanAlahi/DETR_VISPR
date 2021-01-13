@@ -61,5 +61,6 @@ We can aslo it to redact information on student-id cards or other documents like
 ![alt_text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/redact.png)
 ![alt_text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/download%20(7).png)
 # References 
-1) Official DETR repository (https://github.com/facebookresearch/detr)                                                                                                                   2)Fine-tunne DETR ( https://github.com/woctezuma/finetune-detr )                                                                                                                          
-3)A Github issue regarding training detr on custom data (https://github.com/facebookresearch/detr/issues/9)
+- Official DETR repository (https://github.com/facebookresearch/detr)
+- Fine-tunne DETR ( https://github.com/woctezuma/finetune-detr )
+- A Github issue regarding training detr on custom data (https://github.com/facebookresearch/detr/issues/9)
