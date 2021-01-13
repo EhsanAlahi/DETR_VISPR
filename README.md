@@ -56,7 +56,7 @@ VPA dataset contain 29 different classes and our model was trained on all of the
 # license plate number
 ![alt_text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/download%20(3).png)
 # Redact Information
-We can aslo it to redact information on student-id cards or other documents like Pictute, User-name, Date of birth or other information.
+We can aslo use it to redact information on student-id cards or other documents like Pictute, User-name, Date of birth or other information.
 ![alt_text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/redact.png)
 ![alt_text](https://github.com/EhsanAlahi/DETR_VISPR/blob/main/Use-cases/download%20(7).png)
 # References 
